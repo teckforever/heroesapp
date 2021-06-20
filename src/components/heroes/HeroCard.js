@@ -18,7 +18,7 @@ export const HeroCard = ({
             <div className="row no-gutters">
 
                 <div className="col-md-4">
-                    <img src={`./assets/heroes/${id}.jpg`} className="card-img" alt={superhero} />
+                    <img src={`https://teckforever.github.io/heroesapp/assets/heroes/${id}.jpg`} className="card-img" alt={superhero} />
                 </div>
 
                 <div className="col-md-8">
